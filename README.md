@@ -11,13 +11,13 @@ different robot parts to the I.R.A. in other projects. Due to the defined ports 
 every kind of robot project is possible by adding arms with different features, other movement 
 devices or interaction extensions.
 
-The core of the I.R.A. is a Raspberry Pi computer which connects all robot extensions via CAM 
+The core of the I.R.A. is a Raspberry Pi computer which connects all robot extensions via CAN 
 bus so they are able to interact with your crafted builds and ideas. Besides, the first version of 
 the I.R.A. contains a pc power supply providing 12, 5 and 3.3 volts for your extension. 
 Moreover, the I.R.A. will have a front-end that shall be developed in Unity so that the 
 different project parts and especially your own I.R.A. extensions may be controlled. 
 
-It is not important how you build your extensions as long as you add the required CAM bus 
+It is not important how you build your extensions as long as you add the required CAN bus 
 connection as well as the mechanical connection to link it to the I.R.A.. It is also necessary 
 to develop a Unity asset in order to control your own I.R.A. extension.
 
